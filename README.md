@@ -20,8 +20,8 @@ Beer Catalog is a React application built using Vite that allows users to browse
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/chat-server.git
-   cd chat-server
+   git clone https://github.com/hxbeeb11/beer-catalog.git
+   cd beer-catalog
    ```
 
 2. **Install dependencies:**
