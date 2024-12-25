@@ -15,3 +15,35 @@ Beer Catalog is a React application built using Vite that allows users to browse
 - **Axios**: For fetching data from the API.
 - **CSS**: For styling components.
 
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/chat-server.git
+   cd chat-server
+   ```
+
+2. **Install dependencies:**
+
+   Using npm or yarn, install the required dependencies:
+
+   ```bash
+   npm install
+   ```
+
+   or
+
+   ```bash
+   yarn install
+   ```
+
+3. **Start the application:**
+
+   Run the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+   This will start the app on `http://localhost:3000`. Open this URL in your browser to see the app in action.
